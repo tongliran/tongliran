@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 我是童丽然，目前就读于山东某高校，预计2022年毕业:
 ### 我没有什么爱好，但是我喜欢交朋友。
-### 我的邮箱是1837936684@qq.com,欢迎给我发邮件。bowtie::grin:
+### 我的邮箱是1837936684@qq.com,欢迎给我发邮件。:grin:
 <!--
 **tongliran/tongliran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
